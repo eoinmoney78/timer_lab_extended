@@ -1,0 +1,13 @@
+body  {
+    text-align: center;
+    background-color: rgb(56, 45, 45);
+    
+}
+#center {
+    background-color: #808080;
+display: flex;
+margin-top: 170px;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
